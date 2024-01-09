@@ -1,7 +1,6 @@
    public class Main {
         public static void main(String[] args) {
-            System.out.println("Is 23 an Even Number?");
-            System.out.println(checkIfInputIsAnEvenNumber(23));
+            System.out.println("Hello");
         }
 
     public static boolean checkIfInputIsAnEvenNumber(int number){
