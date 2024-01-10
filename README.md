@@ -59,7 +59,7 @@
   - then add another build steps to build and deploy a Java application’s Docker image. In the Jenkins build step set:
           Repository name: \<your repo\>/\<docker-image\>
     
-          The \<your repo\> will be replaced by the name of your dockerhub user name.
+          The <your repo> will be replaced by the name of your dockerhub user name.
   - Go back to your project and click Build Now, then navigate to the console output. The console output should show the build to be as SUCCESS.
 
 
